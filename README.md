@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sylvain Jannin</h1>
 <h3 align="center"> Robotic software engineer graduate from HWU</h3>
 
-
+# Domains
+I am a software engineer specialized in robitics and AI.
 
 # What I know
 
