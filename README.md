@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Sylvain Jannin</h1>
+<h3 align="center"> Robotic software engineer graduate from HWU</h3>
+
+
+
+
+# Contact
+<a href="https://www.linkedin.com/in/sylvain-jannin/?locale=en_US">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
 <!--
 **SylvainJnn/SylvainJnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
