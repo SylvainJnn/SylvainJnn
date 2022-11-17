@@ -2,7 +2,7 @@
 <h3 align="center"> Robotic software engineer graduate from HWU</h3>
 
 # Domains
-I am a software engineer specialized in robitics and AI.
+I am a software engineer specialized in mobile robitics and AI.
 
 # What I know
 
@@ -14,6 +14,12 @@ I am a software engineer specialized in robitics and AI.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+# What I did
+
+I did my master thesis in 2022 on Spot. My goal was to enhance a navigation software using ROS on spot to make the robot not only move in a room, but to make it navigates on multiple floors. Spot can navigate on a graph put a on map. Spot can create new waypoints, load a new set of wayopints and changing the map while navigating. It can also recognise stairs. 
+
+As job, I am now working on the navigation system for a terrastrial robots fleet. 
 
 # Contact
 <a href="https://www.linkedin.com/in/sylvain-jannin/?locale=en_US">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
