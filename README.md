@@ -24,7 +24,7 @@ and my interests go also to AI and the link between robotics and AI
 
 # What I did
 
-I did my Master's thesis in 2022 on Spot. My goal was to enhance a navigation software using ROS on spot to make the robot not only move in a room, but to make it navigates on multiple floors. Spot can navigate on a graph put a on map. Spot can create new waypoints, load a new set of wayopints and changing the map while navigating. It can also recognise stairs. 
+I did my Master's thesis in 2022 on Spot. My goal was to enhance a navigation software using ROS on spot to make the robot not only move in a room, but to make it navigates on multiple floors. Spot can navigate on a graph. Spot can create new waypoints, load a new set of wayopints and changing the map while navigating. It can also recognise stairs. 
 
 <!--As job, I am now working on the navigation system for a terrastrial robots.
 -->
