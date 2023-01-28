@@ -2,7 +2,9 @@
 <h3 align="center"> Robotic software engineer graduate from HWU</h3>
 
 # Domains
-I am a software engineer specialized in mobile robitics and AI.
+I am a software engineer specialized in mobile robitics, computer vision and AI.
+
+My interest areas go for SLAM, navigation and robots collaboration. I am also interested in AI especially on swarm computing. I would like to study the mix of AI and robotics like swarm computing. 
 <!--
 
 I'm a robotics software engineer. 
@@ -23,6 +25,8 @@ and my interests go also to AI and the link between robotics and AI
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # What I did
+
+I developped a navigation system for a fleet of robots. Each robot are sharing the same map and navigate together on given points.
 
 I did my Master's thesis in 2022 on Spot. My goal was to enhance a navigation software using ROS on spot to make the robot not only move in a room, but to make it navigates on multiple floors. Spot can navigate on a graph. Spot can create new waypoints, load a new set of wayopints and changing the map while navigating. It can also recognise stairs. 
 
