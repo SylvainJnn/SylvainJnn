@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sylvain Jannin</h1>
-<h3 align="center"> Robotic software engineer graduate from HWU</h3>
+<h3 align="center"> PhD student in mobile robotics<!--at Taipei Tech-->
+MSc from HWU in robotics and AI</h3>
 
 # Domains
 I am a software engineer specialized in mobile robitics, computer vision and AI.
@@ -11,7 +12,7 @@ I'm a robotics software engineer.
 I did my study on mobile robotics
 and my interests go also to AI and the link between robotics and AI
 
--->
+
 
 # What I know
 
