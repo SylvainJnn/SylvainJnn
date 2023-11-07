@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sylvain Jannin</h1>
-<h3 align="center"> PhD student in mobile robotics and <!--at Taipei Tech-->MSc from HWU in robotics and AI</h3>
+<h3 align="center"> Graduated MSc student from HWU in robotics and AI</h3>
 
 # Domains
 I am a software engineer specialized in mobile robitics, computer vision and AI.
 
 My interest areas go for SLAM, navigation and robots collaboration. I am also interested in AI especially on swarm computing. I would like to study the mix of AI and robotics like swarm computing. 
-<!--
-
-I'm a robotics software engineer. 
-I did my study on mobile robotics
-and my interests go also to AI and the link between robotics and AI
--->
 
 
 # What I know
@@ -30,8 +24,9 @@ I developped a navigation system for a fleet of robots. Each robot are sharing t
 
 I did my Master's thesis in 2022 on Spot. My goal was to enhance a navigation software using ROS on spot to make the robot not only move in a room, but to make it navigates on multiple floors. Spot can navigate on a graph. Spot can create new waypoints, load a new set of wayopints and changing the map while navigating. It can also recognise stairs. 
 
-<!--As job, I am now working on the navigation system for a terrastrial robots.
--->
+I worked as a robotics engineer where I enhanced the localisation and local planner system of robots.
+
+
 # Contact
 <a href="https://www.linkedin.com/in/sylvain-jannin/?locale=en_US">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href=mailto:sylvainjannin@gmail.com>![Gmail](https://img.shields.io/badge/sylvainjannin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
