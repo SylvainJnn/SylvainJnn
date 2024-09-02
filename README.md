@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sylvain Jannin</h1>
-<h3 align="center"> Graduated MSc student from HWU in robotics and SLAM</h3>
+<h3 align="center"> Graduated MSc student from HWU in robotics</h3>
 
 # Domains
 I am a software engineer specialized in mobile robitics, vision and AI.
