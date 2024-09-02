@@ -29,7 +29,7 @@ My interest areas go for SLAM, navigation and robots collaboration. I am also in
 ## Currently learning
 
 ![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![PX4](https://img.shields.io/badge/PX4-FCC624?style=for-the-badge&logo=px4&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4-000000?style=for-the-badge&logo=px4&logoColor=white)
 
 # What I did
 
