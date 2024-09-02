@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sylvain Jannin</h1>
-<h3 align="center"> Graduated MSc student from HWU in robotics and AI</h3>
+<h3 align="center"> Graduated MSc student from HWU in robotics and SLAM</h3>
 
 # Domains
-I am a software engineer specialized in mobile robitics, computer vision and AI.
+I am a software engineer specialized in mobile robitics, vision and AI.
 
-My interest areas go for SLAM, navigation and robots collaboration. I am also interested in AI especially on swarm computing. I would like to study the mix of AI and robotics like swarm computing. 
+My interest areas go for SLAM, navigation and robots collaboration. I am also interested in AI applied to robotics, especially on swarm computing. <!-- I would like to study the mix of AI and robotics like swarm computing. -->
 
 
 # What I know
@@ -29,7 +29,7 @@ My interest areas go for SLAM, navigation and robots collaboration. I am also in
 ## Currently learning
 
 ![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![PX4](https://img.shields.io/badge/PX4-FCC624?style=for-the-badge&logo=px4&logoColor=black)
+![PX4](https://img.shields.io/badge/PX4-FCC624?style=for-the-badge&logo=px4&logoColor=white)
 
 # What I did
 
@@ -37,7 +37,7 @@ I developped a navigation system for a fleet of robots. Each robot are sharing t
 
 I did my Master's thesis in 2022 on Spot. My goal was to enhance a navigation software using ROS on spot to make the robot not only move in a room, but to make it navigates on multiple floors. Spot can navigate on a graph. Spot can create new waypoints, load a new set of wayopints and changing the map while navigating. It can also recognise stairs. 
 
-I worked as a robotics engineer where I enhanced the localisation and local planner system of robots.
+I worked as a robotics engineer, where I enhanced the robots' navigation and local planner systems, enabling them to re-localize independently without external assistance. Additionally, I worked on the robots' data recorder and conducted data analysis on the robots.
 
 
 # Contact
