@@ -17,7 +17,7 @@ My interest areas go for SLAM, navigation and robots collaboration. I am also in
 
 ## Robotics
 ![ROS](https://img.shields.io/badge/ros-192a49.svg?style=for-the-badge&logo=ros&logoColor=white)
-![ROS2](https://img.shields.io/badge/ros-192a49.svg?style=for-the-badge&logo=ros&logoColor=white).
+![ROS2](https://img.shields.io/badge/ros-192a49.svg?style=for-the-badge&logo=ros2&logoColor=white).
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ## Other
