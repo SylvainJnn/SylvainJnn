@@ -30,6 +30,7 @@ My interest areas go for SLAM, navigation and robots collaboration. I am also in
 
 ![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PX4](https://img.shields.io/badge/PX4-000000?style=for-the-badge&logo=px4&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=PyTorch).
 
 # What I did
 
